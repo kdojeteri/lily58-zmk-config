@@ -10,9 +10,9 @@
 #include <dt-bindings/zmk/ext_power.h>
 
 #define DEFAULT 0
-#define SYMBOL  1
-#define ACCENT  2
-#define FUNCT   3
+#define FUNCT   1
+#define SYMBOL  2
+#define ACCENT  3
 
 / {
     keymap {
